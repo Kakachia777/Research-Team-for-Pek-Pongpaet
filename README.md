@@ -8,7 +8,6 @@ A multimodal design analysis tool powered by Google's Gemini 2.0 multimodal capa
 https://github.com/user-attachments/assets/1a389bb3-a24f-408b-bfed-e491e3d8cac4
 
 
-
 ## About
 
 The Design Agent Team utilizes Gemini 2.0's advanced multimodal capabilities to analyze design assets from multiple perspectives:
@@ -31,8 +30,7 @@ The Design Agent Team utilizes Gemini 2.0's advanced multimodal capabilities to 
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_multimodal_design_agent
+   git clone https://github.com/kakachia777/Research-Team-for-Pek-Pongpaet.git
 
    # Create and activate virtual environment (optional)
    python -m venv venv
